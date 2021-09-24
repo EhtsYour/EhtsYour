@@ -33,7 +33,7 @@ I'm a Full Stack Web Application Developer from [<img src="https://image.flatico
 [<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' height='40'>](https://www.instagram.com/ehtsyour/)
 [<img src='https://img.shields.io/badge/Website-16B6D2?style=for-the-badge&logo=Google-chrome&logoColor=white' alt='moniruzzaman' height='40'>](https://www.moniruzzaman.info/)
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=EhtsYour&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&bg_color=10,333333,333333,30BFBD&title_color=fff&text_color=fff&icon_color=fff" alt="moniruzzaman github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=EhtsYour&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&bg_color=10,333333,333333,30BFBD&title_color=fff&text_color=fff&icon_color=fff" alt="moniruzzaman github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EhtsYour&layout=compact&theme=buefy&hide_title=true&hide_border=true" /> |
 | ------------- | ------------- |
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=EhtsYour&show_icons=true&count_private=true&hide_title=true&bg_color=10,333333,333333,30BFBD&title_color=fff&text_color=fff&icon_color=fff">](https://github.com/EhtsYour)
