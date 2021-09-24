@@ -1,6 +1,6 @@
 [![Banner](https://github.com/EhtsYour/EhtsYour/blob/main/Banner.png)](https://github.com/EhtsYour)
 
-# Hi there my nickname is Monir [<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">](https://github.com/EhtsYour)
+# Hi there my nickname's Monir [<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">](https://github.com/EhtsYour)
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=EhtsYour&show_icons=true&count_private=true&hide_title=true&bg_color=10,333333,333333,30BFBD&title_color=fff&text_color=fff&icon_color=fff">](https://github.com/EhtsYour)
 
