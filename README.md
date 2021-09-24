@@ -2,7 +2,7 @@
 
 # Hi there my nickname's Monir [<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">](https://github.com/EhtsYour)
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=EhtsYour&show_icons=true&count_private=true&hide_title=true&bg_color=10,333333,333333,30BFBD&title_color=fff&text_color=fff&icon_color=fff">](https://github.com/EhtsYour)
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=EhtsYour&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&bg_color=10,333333,333333,30BFBD&title_color=fff&text_color=fff&icon_color=fff">](https://github.com/EhtsYour)
 
 I'm a Full Stack Web Application Developer from [<img src="https://image.flaticon.com/icons/svg/323/323299.svg" width="13"/>](https://github.com/EhtsYour) Bangladesh. I've been working professionally in this area since 2016. I spend most of time coding outstanding projects.
 
@@ -33,9 +33,12 @@ I'm a Full Stack Web Application Developer from [<img src="https://image.flatico
 [<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' height='40'>](https://www.instagram.com/ehtsyour/)
 [<img src='https://img.shields.io/badge/Website-16B6D2?style=for-the-badge&logo=Google-chrome&logoColor=white' alt='moniruzzaman' height='40'>](https://www.moniruzzaman.info/)
 
-|<img align="center" src="https://github-readme-stats.vercel.app/api?username=EhtsYour&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&bg_color=10,333333,333333,30BFBD&title_color=fff&text_color=fff&icon_color=fff" alt="moniruzzaman github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EhtsYour&layout=compact&theme=buefy&hide_title=true&hide_border=true" /> |
-| ------------- | ------------- |
+---
+<!--
+
+<img src="https://github-readme-stats.vercel.app/api?username=EhtsYour&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&hide_title=true&bg_color=10,333333,333333,30BFBD&title_color=fff&text_color=fff&icon_color=fff" alt="moniruzzaman github stats" align="center" width="500px"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EhtsYour&layout=compact&theme=buefy&bg_color=90,30BFBD,333333&text_color=fff&hide_title=true&hide_border=true" align="center" width="450px"/>
+
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=EhtsYour&show_icons=true&count_private=true&hide_title=true&bg_color=10,333333,333333,30BFBD&title_color=fff&text_color=fff&icon_color=fff">](https://github.com/EhtsYour)
 
----
+-->
