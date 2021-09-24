@@ -10,7 +10,7 @@ Full Stack Web Application Developer [<img src="https://image.flaticon.com/icons
 
 I spend most of time coding outstanding projects
 
-[![Profile views](https://komarev.com/ghpvc/?username=EhtsYour&style=flat-square&label=Profile+Views&color=30BFBD)](#)
+[![Visitor Badge](https://komarev.com/ghpvc/?username=EhtsYour&style=flat-square&label=Profile+Views&color=30BFBD)](#)
 [![Mail Badge](https://img.shields.io/badge/contact@moniruzzaman.info-orange?style=flat-square&logo=Gmail&logoColor=white)](mailto:contact@moniruzzaman.info)
 
 <br>
