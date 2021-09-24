@@ -1,31 +1,31 @@
-[![Banner](https://github.com/EhtsYour/EhtsYour/blob/main/Banner.png)](#)
+[![Banner](https://github.com/EhtsYour/EhtsYour/blob/main/Banner.png)](https://github.com/EhtsYour)
 
-# Hi there welcome to my profile [<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">](#)
+# Hi there welcome to my profile [<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">](https://github.com/EhtsYour)
 
 [<img align="right" width="50%" src="https://readme-stats.jader.me/api?username=EhtsYour&show_icons=true&hide=contribs&bg_color=30BFBD,333333,30BFBD&title_color=fff&text_color=fff&icon_color=fff">](https://github.com/EhtsYour)
 
 Hello, This is Moniruzzaman
 
-Full Stack Web Application Developer [<img src="https://image.flaticon.com/icons/svg/323/323299.svg" width="13"/>](#)
+Full Stack Web Application Developer [<img src="https://image.flaticon.com/icons/svg/323/323299.svg" width="13"/>](https://github.com/EhtsYour)
 
 I spend most of time coding outstanding projects
 
-[![Visitors Badge](https://komarev.com/ghpvc/?username=EhtsYour&style=flat-square&label=Profile+Views&color=30BFBD)](#)
+[![Visitors Badge](https://komarev.com/ghpvc/?username=EhtsYour&style=flat-square&label=Profile+Views&color=30BFBD)](https://github.com/EhtsYour)
 [![Mail Badge](https://img.shields.io/badge/contact@moniruzzaman.info-orange?style=flat-square&logo=Gmail&logoColor=white)](mailto:contact@moniruzzaman.info)
 
 <br>
 
 ## Things I Code With 
-[![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#)
-[![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)](#)
-[![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#)
-[![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#)
-[![React Badge](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black)](#)
-[![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#)
-[![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
-[![Next.js Badge](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#)
-[![VS_Code Badge](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
-[![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
+[![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://github.com/EhtsYour)
+[![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/EhtsYourhttps://github.com/EhtsYour)
+[![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/EhtsYour)
+[![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/EhtsYour)
+[![React Badge](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/EhtsYour)
+[![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://github.com/EhtsYour)
+[![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/EhtsYour)
+[![Next.js Badge](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/EhtsYour)
+[![VS_Code Badge](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://github.com/EhtsYour)
+[![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/EhtsYour)
 
 <br>
 
