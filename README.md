@@ -2,7 +2,7 @@
 
 # Hi there welcome to my profile [<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">](https://github.com/EhtsYour)
 
-[<img align="right" width="50%" src="https://readme-stats.jader.me/api?username=EhtsYour&show_icons=true&hide=contribs&bg_color=30BFBD,333333,30BFBD&title_color=fff&text_color=fff&icon_color=fff">](https://github.com/EhtsYour)
+[<img align="right" width="50%" src="https://readme-stats.jader.me/api?username=EhtsYour&show_icons=true&hide_title=true&bg_color=30BFBD,333333,30BFBD&title_color=fff&text_color=fff&icon_color=fff">](https://github.com/EhtsYour)
 
 Hello, This is Moniruzzaman
 
