@@ -2,7 +2,7 @@
 
 <br><br>
 
-<h1 align="center"> Hi There! My nickname's Monir <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
+<h1 align="center">About Me</h1>
 
 <br>
 
@@ -10,7 +10,7 @@
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=EhtsYour&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&bg_color=10,333333,333333,30BFBD&title_color=fff&text_color=fff&icon_color=fff">](https://github.com/EhtsYour)
 -->
 
-<p align="center">I'm a Full Stack Web Application Developer from <img src="https://image.flaticon.com/icons/svg/323/323299.svg" width="13"/> Bangladesh. I've been working professionally in this area since 2016. I spend most of time coding outstanding projects.</p>
+<p align="center"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px" alt="hi"> Hi There! My nickname's Monir a Full Stack Web Application Developer from <img src="https://image.flaticon.com/icons/svg/323/323299.svg" width="13"/> Bangladesh. I've been working professionally in this area since 2016. I spend most of time coding outstanding projects.</p>
 
 <div  align="center">
 <img src="https://komarev.com/ghpvc/?username=EhtsYour&style=flat-square&label=Profile+Views&color=30BFBD">
