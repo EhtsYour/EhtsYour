@@ -2,23 +2,30 @@
 
 <br>
 
-<h1 align="center">About Me</h1>
+<h1 align="center">Yes, It's Me</h1>
 
 <br>
 
-<!--
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=EhtsYour&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&bg_color=10,333333,333333,30BFBD&title_color=fff&text_color=fff&icon_color=fff">](https://github.com/EhtsYour)
--->
-
-<p align="center"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px" alt="hi"> Hi There! My nickname's Monir a Full Stack Web Application Developer from <img src="https://image.flaticon.com/icons/svg/323/323299.svg" width="13"/> Bangladesh. I've been working professionally in this area since 2016. I spend most of time coding outstanding projects.</p>
+<p align="center"><a href="https://github.com/EhtsYour"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px" alt="hi"></a>Hi There! My nickname's Monir a Full Stack Web Application Developer from <a href="https://github.com/EhtsYour"><img src="https://image.flaticon.com/icons/svg/323/323299.svg" width="13"/></a> Bangladesh. I've been working professionally in this area since 2016. I spend most of time coding outstanding projects.</p>
 
 <div  align="center">
-<img src="https://komarev.com/ghpvc/?username=EhtsYour&style=flat-square&label=Profile+Views&color=30BFBD">
-<a href="mailto:contact@moniruzzaman.info"><img src="https://img.shields.io/badge/contact@moniruzzaman.info-orange?style=flat-square&logo=Gmail&logoColor=white"></a>
+ <a href="https://github.com/EhtsYour"><img src="https://komarev.com/ghpvc/?username=EhtsYour&style=flat-square&label=Profile+Views&color=30BFBD"></a>
+ <a href="mailto:contact@moniruzzaman.info"><img src="https://img.shields.io/badge/contact@moniruzzaman.info-orange?style=flat-square&logo=Gmail&logoColor=white"></a>
 </div>
+
+## Get In Touch
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40'>](https://www.linkedin.com/in/ehtsyour/)
+[<img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt='twitter' height='40'>](https://www.twitter.com/EhtsYour/)
+[<img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white' alt='facebook' height='40'>](https://www.facebook.com/EhtsYour/)
+[<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' height='40'>](https://www.instagram.com/ehtsyour/)
+[<img src='https://img.shields.io/badge/Website-16B6D2?style=for-the-badge&logo=Google-chrome&logoColor=white' alt='moniruzzaman' height='40'>](https://www.moniruzzaman.info/)
+
+---
 
 
 <!--
+
+<img src="https://komarev.com/ghpvc/?username=EhtsYour&style=flat-square&label=Profile+Views&color=30BFBD">
 <br>
 
 ## Things I Code With <img src ="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px>
@@ -34,21 +41,13 @@
 [![VS_Code Badge](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://github.com/EhtsYour)
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/EhtsYour)
 
-<br> -->
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=EhtsYour&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&bg_color=10,333333,333333,30BFBD&title_color=fff&text_color=fff&icon_color=fff">](https://github.com/EhtsYour)
 
-## Get In Touch <!-- <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> -->
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40'>](https://www.linkedin.com/in/ehtsyour/)
-[<img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt='twitter' height='40'>](https://www.twitter.com/EhtsYour/)
-[<img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white' alt='facebook' height='40'>](https://www.facebook.com/EhtsYour/)
-[<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' height='40'>](https://www.instagram.com/ehtsyour/)
-[<img src='https://img.shields.io/badge/Website-16B6D2?style=for-the-badge&logo=Google-chrome&logoColor=white' alt='moniruzzaman' height='40'>](https://www.moniruzzaman.info/)
+<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 
----
-<!--
+<img src="https://github-readme-stats.vercel.app/api?username=EhtsYour&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&hide_title=true&bg_color=10,333333,333333,30BFBD&title_color=fff&text_color=fff&icon_color=fff" alt="moniruzzaman github stats" align="center" width="500px">
 
-my name is monir
-
-<img src="https://github-readme-stats.vercel.app/api?username=EhtsYour&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&hide_title=true&bg_color=10,333333,333333,30BFBD&title_color=fff&text_color=fff&icon_color=fff" alt="moniruzzaman github stats" align="center" width="500px"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EhtsYour&layout=compact&theme=buefy&bg_color=90,30BFBD,333333&text_color=fff&hide_title=true&hide_border=true" align="center" width="450px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EhtsYour&layout=compact&theme=buefy&bg_color=90,30BFBD,333333&text_color=fff&hide_title=true&hide_border=true" align="center" width="450px"/>
 
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=EhtsYour&show_icons=true&count_private=true&hide_title=true&bg_color=10,333333,333333,30BFBD&title_color=fff&text_color=fff&icon_color=fff">](https://github.com/EhtsYour)
