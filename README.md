@@ -8,7 +8,7 @@
 
 <div  align="center">
  <a href="https://github.com/EhtsYour"><img src="https://komarev.com/ghpvc/?username=EhtsYour&style=flat-square&label=Profile+Views&color=30BFBD"></a>
- <a href="mailto:contact@moniruzzaman.info"><img src="https://img.shields.io/badge/contact@moniruzzaman.info-orange?style=flat-square&logo=Gmail&logoColor=white"></a>
+ <a href="mailto:info@moniruzzaman.info"><img src="https://img.shields.io/badge/info@moniruzzaman.info-orange?style=flat-square&logo=Gmail&logoColor=white"></a>
 </div>
 
 <h2>Get In Touch</h2>
