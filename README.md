@@ -11,7 +11,8 @@
  <a href="mailto:contact@moniruzzaman.info"><img src="https://img.shields.io/badge/contact@moniruzzaman.info-orange?style=flat-square&logo=Gmail&logoColor=white"></a>
 </div>
 
-## Get In Touch
+<h2>Get In Touch</h2>
+
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40'>](https://www.linkedin.com/in/ehtsyour/)
 [<img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt='twitter' height='40'>](https://www.twitter.com/EhtsYour/)
 [<img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white' alt='facebook' height='40'>](https://www.facebook.com/EhtsYour/)
@@ -20,7 +21,6 @@
 
 
 <!--
-
 <img src="https://komarev.com/ghpvc/?username=EhtsYour&style=flat-square&label=Profile+Views&color=30BFBD">
 <br>
 
@@ -47,5 +47,4 @@
 
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=EhtsYour&show_icons=true&count_private=true&hide_title=true&bg_color=10,333333,333333,30BFBD&title_color=fff&text_color=fff&icon_color=fff">](https://github.com/EhtsYour)
-
 -->
