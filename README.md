@@ -20,8 +20,6 @@
 [<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' height='40'>](https://www.instagram.com/ehtsyour/)
 [<img src='https://img.shields.io/badge/Website-16B6D2?style=for-the-badge&logo=Google-chrome&logoColor=white' alt='moniruzzaman' height='40'>](https://www.moniruzzaman.info/)
 
----
-
 
 <!--
 
