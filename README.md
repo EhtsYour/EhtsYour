@@ -1,6 +1,6 @@
 [![Banner](https://github.com/EhtsYour/EhtsYour/blob/main/Banner.png)](https://github.com/EhtsYour)
 
-<br><br>
+<br>
 
 <h1 align="center">About Me</h1>
 
@@ -16,6 +16,9 @@
 <img src="https://komarev.com/ghpvc/?username=EhtsYour&style=flat-square&label=Profile+Views&color=30BFBD">
 <a href="mailto:contact@moniruzzaman.info"><img src="https://img.shields.io/badge/contact@moniruzzaman.info-orange?style=flat-square&logo=Gmail&logoColor=white"></a>
 </div>
+
+
+<!--
 <br>
 
 ## Things I Code With <img src ="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px>
@@ -31,7 +34,7 @@
 [![VS_Code Badge](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://github.com/EhtsYour)
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/EhtsYour)
 
-<br>
+<br> -->
 
 ## Get In Touch <!-- <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> -->
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40'>](https://www.linkedin.com/in/ehtsyour/)
