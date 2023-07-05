@@ -4,7 +4,7 @@
 
 <h1 align="center">Yes, It's Me</h1>
 
-<p align="center"><a href="https://github.com/EhtsYour"><img src="Hand.gif" width="18" alt="hi"></a>Hi There! My nickname's Monir, a Full Stack Web Application Developer from <a href="https://github.com/EhtsYour"><img src="bangladesh.png" width="18"/></a> Bangladesh. I've been working professionally in this area since 2016. I spend most of time coding outstanding projects.</p>
+<p align="center"><a href="https://github.com/EhtsYour"><img src="Hand.gif" width="22" alt="hi"></a>Hi There! My nickname's Monir, a Full Stack Web Application Developer from <a href="https://github.com/EhtsYour"><img src="bangladesh.png" width="18"/></a> Bangladesh. I've been working professionally in this area since 2016. I spend most of time coding outstanding projects.</p>
 
 <div  align="center">
  <a href="https://github.com/EhtsYour"><img src="https://komarev.com/ghpvc/?username=EhtsYour&style=flat-square&label=Profile+Views&color=30BFBD"></a>
